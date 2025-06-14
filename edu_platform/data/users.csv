@@ -1,0 +1,6 @@
+id,full_name,email,password,role,_notifications,created_at,admin_id,permissions,teacher_id,subjects,classes,assignments,student_id,grade,grades,parent_id,children
+1,Admin,admin@edu.com,713bfda78870bf9d1b261f565286f85e97ee614efe5f0faf7c34e7ca4f65baca,admin,"[""Yangi foydalanuvchi qo'shildi: qw""]",2025-06-14 14:46:46.037001,1.0,[],,,,,,,,,
+2,Teacher,teacher@edu.com,0acccbba3a8265e79e018127c2a3bc9cad528e542787f810a002c27bc7f81811,teacher,['Assignment 2 graded.'],2025-06-14 14:46:46.037041,,,2.0,[],[],{2: 3},,,,,
+3,Student,student@edu.com,0c706cd9e9c31663612230ff8d74850ca2efdce103dedc77cdd66bf4cfd192ce,student,[],2025-06-14 14:46:46.037069,,,,{},,{},3.0,5.0,{},,
+4,Parent,parent@edu.com,3f650137fe217270ad38b496da70838695e4595d64298ce28e0c86f2c39c3c1e,parent,[],2025-06-14 14:46:46.037091,,,,,,,,,,4.0,[]
+5,qw,qw,d876d59095f13054c120f77202c5378aa25d7787d4adf70980dbb3f2a7125ac1,,[],2025-06-14 14:47:04.190865,,,,,,,,,,,
