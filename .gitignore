@@ -1,1 +1,9 @@
+# Environment
 venv/
+
+# Credentials
+emotions_app/gmail/files/credentials.json
+emotions_app/gmail/files/token.pickle
+
+# Cache files
+__pycache__
